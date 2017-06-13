@@ -176,14 +176,6 @@ public class ChangeColorEffectTest {
 
     }
 
-    /**
-     * Test de ChangeColorEffect sur grille pré-remplie 
-     * Vérification de l'état de
-     * la tuile après application de l'effet 
-     * Résultat attendu : la case est de la couleur opposée à celle jouée
-     * l'effet doit être sur la case 
-     * et le tour doit être passé
-     */
     @Test
     public void testChangeColorEffectFilledGame() {
 
